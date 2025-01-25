@@ -1,1 +1,1 @@
-function imagechange() {document.getElementById('ghibli').src = './image/ナウシカ.jpg';}
+function imagechange() {document.getElementById('ghibli2').src = './image/ナウシカ.jpg';}
